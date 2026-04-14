@@ -1,68 +1,96 @@
-# 👋 Hey, I'm Nivas
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Web+Developer;Vibe+Coder;Terminal+Lover" alt="Typing SVG" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivas1899&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="nivas GitHub Stats" />
+  <h1 align="center">👋 Hi, I'm Nivas</h1>
+  <p align="center">
+    <strong>Cybersecurity Enthusiast | Web Developer | Vibe Coder</strong>
+  </p>
+  <p align="center">
+    <i>"Code. Break. Secure. Repeat."</i>
+  </p>
 </p>
 
 ---
 
-### 🚀 Cybersecurity Enthusiast | 🌐 Web Developer | ⚡ Vibe Coder
-
 ### 🧠 About Me
-- 🔐 **Learning**: Ethical Hacking & Offensive Security
-- 💻 **Building**: Scalable Web Apps & High-Performance Tools
-- 🧪 **Experimenting**: Automation, Bash Scripting & Network Analysis
-- ⚡ **Philosophy**: "Code. Break. Secure. Repeat."
+
+- 🔐 **Ethical Hacking**: Currently exploring the world of offensive security and pentesting.
+- 🌐 **Web Security**: Curious about how websites work and how to make them unhackable.
+- 💻 **Builder**: I love building clean web applications and automation scripts.
+- ⚡ **Fun Fact**: I believe in "Vibe Coding"—if the code doesn't feel right, it isn't right.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivas1899&show_icons=true&theme=dark&hide_border=true" alt="nivas1899's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivas1899&theme=dark&hide_border=true" alt="nivas1899's streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas1899&layout=compact&theme=dark&hide_border=true" alt="nivas1899's top languages" />
+</p>
 
 ---
 
 ### ⚒️ Tech Stack
 
-<div align="center">
+#### 💻 Programming & Scripting
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash" />
+  </a>
+</p>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  
-  ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-888888?style=for-the-badge&logo=nmap&logoColor=white)
-  ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+#### ⚙️ Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+  </a>
+</p>
 
-</div>
+#### 🔐 Cybersecurity Toolkit
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-888888?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
----
+#### 🛢️ Databases (Learning)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
 
-### 🚀 Highlight Projects
-
-- [**🛡️ StackSecure AI**](https://github.com/nivas1899/stacksecure-ai) - A professional Cybersecurity SaaS dashboard for threat monitoring.
-- [**🏙️ CitySnap**](https://github.com/nivas1899/CitySnap) - Civics issue reporting system with Geo-tagging and Supabase.
-- [**⌨️ Typing Test Tool**](https://github.com/nivas1899/typing_test_tool_python) - Python-based WPM tracker with clean GUI.
-- [**📄 WordMerger**](https://github.com/nivas1899/WordMerger) - Bulk DOCX merger and combination generator.
+#### 🖥️ Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/nivas1899/nivas1899/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+</p>
 
 ---
 
 ### 🌍 Connect With Me
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nivas1899)
-- 🌐 **Portfolio**: [nivas1899.github.io](https://nivas1899.github.io)
+
+<p align="center">
+  <a href="https://linkedin.com/in/nivas1899" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nivas1899" />
+  </a>
+  <a href="https://twitter.com/nivas1899" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nivas1899" />
+  </a>
+</p>
 
 ---
 <p align="center">
-  🔥 <i>"Code. Break. Secure. Repeat."</i>
+  🚀 <i>Keep building, keep breaking, keep securing.</i>
 </p>
