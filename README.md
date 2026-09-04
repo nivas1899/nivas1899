@@ -27,6 +27,7 @@ toward **cloud security and red teaming**.
 | Project | What it does |
 |---|---|
 | [**cryptonex**](https://github.com/nivas1899/cryptonex) | Cryptographic discovery + post-quantum risk assessment and migration planning — CycloneDX CBOM & SARIF output, fully offline. Built for Smart India Hackathon 2026 (PS 26164, NTRO). |
+| [**vuln-database**](https://github.com/nivas1899/vuln-database) | 190-entry web / API / cloud / LLM vulnerability reference across 16 categories — CWE, detection method, example payload and fix per class, with a zero-dependency query CLI. |
 | [**NetworkAnalyzer**](https://github.com/nivas1899/NetworkAnalyzer) | System network config, IPv4/IPv6 subnet math and connectivity checks behind one engine — Tkinter GUI, browser UI and CLI. Pure standard library. |
 | [**port-scanner**](https://github.com/nivas1899/port-scanner) | Multithreaded TCP port scanner — service identification, banner grabbing, JSON/CSV export, unit tests. |
 | [**campus-wifi-analyzer**](https://github.com/nivas1899/campus-wifi-analyzer) | Measures latency, jitter, loss and throughput on a campus Wi-Fi link, scores congestion 0–100 and shows why. No third-party packages. |
