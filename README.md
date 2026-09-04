@@ -1,96 +1,70 @@
-<p align="center">
-  <h1 align="center">👋 Hi, I'm Nivas</h1>
-  <p align="center">
-    <strong>Cybersecurity Enthusiast | Web Developer | Vibe Coder</strong>
-  </p>
-  <p align="center">
-    <i>"Code. Break. Secure. Repeat."</i>
-  </p>
-</p>
+# Nivas Babu
+
+**Cyber Security researcher · bug bounty hunter · CTF player**
+Third-year B.E. Computer Science (Cyber Security), KSR College of Engineering — Tamil Nadu, India.
+
+I spend most of my time on live scopes: web and API penetration testing, with a focus on
+**access-control / IDOR** and **business-logic** flaws. I write my own tooling in Python when a
+target needs something the standard tools don't do. Currently pushing that same methodology
+toward **cloud security and red teaming**.
 
 ---
 
-### 🧠 About Me
+### Where to find my security work
 
-- 🔐 **Ethical Hacking**: Currently exploring the world of offensive security and pentesting.
-- 🌐 **Web Security**: Curious about how websites work and how to make them unhackable.
-- 💻 **Builder**: I love building clean web applications and automation scripts.
-- ⚡ **Fun Fact**: I believe in "Vibe Coding"—if the code doesn't feel right, it isn't right.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivas1899&show_icons=true&theme=dark&hide_border=true" alt="nivas1899's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivas1899&theme=dark&hide_border=true" alt="nivas1899's streak stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas1899&layout=compact&theme=dark&hide_border=true" alt="nivas1899's top languages" />
-</p>
+| Platform | Handle | Notes |
+|---|---|---|
+| TryHackMe | [nivx18](https://tryhackme.com/p/nivx18) | Top 3% — 100+ rooms, 15 badges |
+| Bugcrowd | [nivxz](https://bugcrowd.com/h/nivxz) | Public programs — access control, IDOR, logic bugs |
+| Reports accepted | 70+ | Across public and private programs |
 
 ---
 
-### ⚒️ Tech Stack
+### Selected projects
 
-#### 💻 Programming & Scripting
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash" />
-  </a>
-</p>
+**Security tooling**
 
-#### ⚙️ Tools & Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-  </a>
-</p>
+| Project | What it does |
+|---|---|
+| [**cryptonex**](https://github.com/nivas1899/cryptonex) | Cryptographic discovery + post-quantum risk assessment and migration planning — CycloneDX CBOM & SARIF output, fully offline. Built for Smart India Hackathon 2026 (PS 26164, NTRO). |
+| [**NetworkAnalyzer**](https://github.com/nivas1899/NetworkAnalyzer) | System network config, IPv4/IPv6 subnet math and connectivity checks behind one engine — Tkinter GUI, browser UI and CLI. Pure standard library. |
+| [**port-scanner**](https://github.com/nivas1899/port-scanner) | Multithreaded TCP port scanner — service identification, banner grabbing, JSON/CSV export, unit tests. |
+| [**campus-wifi-analyzer**](https://github.com/nivas1899/campus-wifi-analyzer) | Measures latency, jitter, loss and throughput on a campus Wi-Fi link, scores congestion 0–100 and shows why. No third-party packages. |
 
-#### 🔐 Cybersecurity Toolkit
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-888888?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
+**Web & AI**
 
-#### 🛢️ Databases (Learning)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
-#### 🖥️ Others
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" />
-  </a>
-</p>
+| Project | What it does |
+|---|---|
+| [**trueloop**](https://github.com/nivas1899/trueloop) · [**vicodathon**](https://github.com/nivas1899/vicodathon) | AI technical-interview tools that ground each question in the candidate's real learning history and verify resume claims conversationally. Next.js + Claude / Gemini. |
+| [**CitySnap**](https://github.com/nivas1899/CitySnap_civics_issuse_reporting_system) | Full-stack civic-issue reporting — AI image captioning, geolocation, admin monitoring. React + Node + MongoDB. |
+| [**portfolio**](https://github.com/nivas1899/portfolio) | Scroll-driven WebGL flight through a 3D scene, headline type rendered as real geometry. Vanilla JS + Three.js + GSAP. |
 
 ---
 
-### 🐍 Contribution Snake
+### Toolbox
 
-<p align="center">
-  <img src="https://github.com/nivas1899/nivas1899/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+**Testing** &nbsp; Burp Suite · Nmap · Nuclei · SQLMap · ffuf · Nikto · Metasploit · Wireshark
+**Code** &nbsp; Python · JavaScript / TypeScript · Bash · SQL
+**Environment** &nbsp; Linux · Git · Next.js · Flask
+
+---
+
+### GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nivas1899&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=nivas1899&hide_border=true&theme=graywhite" alt="streak" />
 </p>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivas1899&layout=compact&hide_border=true&langs_count=8&theme=graywhite" alt="top languages" />
+</p>
+<img src="https://github.com/nivas1899/nivas1899/raw/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 
 ---
 
-### 🌍 Connect With Me
+### Contact
 
-<p align="center">
-  <a href="https://linkedin.com/in/nivas1899" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nivas1899" />
-  </a>
-  <a href="https://twitter.com/nivas1899" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="nivas1899" />
-  </a>
-</p>
+- Email — hackcaps.labz@gmail.com
+- Portfolio — [github.com/nivas1899/portfolio](https://github.com/nivas1899/portfolio)
 
----
-<p align="center">
-  🚀 <i>Keep building, keep breaking, keep securing.</i>
-</p>
+<sub>Still learning, still reporting real bugs while I do.</sub>
